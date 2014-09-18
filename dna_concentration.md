@@ -12,7 +12,7 @@ This procedure is based on [Qiagen FAQ #2953] (http://www.qiagen.com/us/resource
 1. Place the centrifuge rotor in the -80 for 20 minutes or so.
 2. Note your initial DNA volume and adjust the volumes below.  It's helpful to write these all down before starting.
 3. Set up the centrifuge to spin at 12,000 x g (not 12,000 RPM).
-4. Heat the water bath up to 55 C
+4. Heat the water bath up to 55 ºC
 
 ##Concentration steps
 1. Adjust the salt concentration of your DNA solution with sodium acetate (0.3 M, **pH 5.2**, final concentration).  Use the stock 3M solution, which is already at the proper pH.
