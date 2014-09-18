@@ -30,5 +30,9 @@ documents, please see https://help.github.com/articles/github-flavored-markdown.
 Please name your files so that they are meaningful, names like `dna_concentration.md` is
 better than, say, `brandons_drunken_afternoon_attempt_at_seeing_a_dna_pellet.md`.
 
+##Printing
+
+If you want to print the protocols, use the awesome [GitPrint](https://gitprint.com) extension or bookmarklet.
+
 =====
 Even if you're not in the lab, pull requests are welcome and encouraged.
