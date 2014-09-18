@@ -22,6 +22,9 @@ All protocols should be written in Markdown, and will be nicely rendered by GitH
 you want to commit other types of files, please check with someone else to make sure it's
 cool.
 
+For more information on GitHub Flavored Markdown, which should be used to compose your
+documents, please see https://help.github.com/articles/github-flavored-markdown.
+
 ##Naming convention
 
 Please name your files so that they are meaningful, names like `dna_concentration.md` is
