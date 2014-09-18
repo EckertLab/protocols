@@ -12,6 +12,7 @@ This procedure is based on [Qiagen FAQ #2953] (http://www.qiagen.com/us/resource
 1. Place the centrifuge rotor in the -80 for 20 minutes or so.
 2. Note your initial DNA volume and adjust the volumes below.  It's helpful to write these all down before starting.
 3. Set up the centrifuge to spin at 12,000 x g (not 12,000 RPM).
+4. Heat the water bath up to 55 C
 
 ##Concentration steps
 1. Adjust the salt concentration of your DNA solution with sodium acetate (0.3 M, **pH 5.2**, final concentration).  Use the stock 3M solution, which is already at the proper pH.
@@ -22,5 +23,14 @@ This procedure is based on [Qiagen FAQ #2953] (http://www.qiagen.com/us/resource
 6. Centrifuge at 12,000 x g for 15 min.
 7. Carefully decant the supernatant without disturbing the pellet.
 8. Air-dry the pellet for 5–20 min (depending on the size of the pellet).  Keeping the tube open in the hood is a good way to do this. Ethanol is bad for downstream reactions (e.g., gels, sequencing), so make sure it's all evaporated before proceeding.
-9. Redissolve the DNA in the Qiagen EB Buffer from the DNA extraction kits.
+9. Redissolve the DNA in the 50-100 ul of Qiagen EB Buffer from the DNA extraction kits. Initial pipetting should be at least 50 **gentle** rounds. See below if it doesn't dissolve.
 10. Quantitate the DNA (blanking it with the same EB Buffer) and record the results.
+
+##For hard to dissolve DNA
+
+Often the DNA will not go easily back into solution.  Until we get a heating block back up and running, do the following:
+
+1. Perform another 50 rounds of **gentle** pipetting.
+2. Close the tube tightly and place it in the water bath for 15 minutes.
+3. Do another 50 rounds of **gentle** pipetting.
+4. If you still have some floating DNA pellet, perform these steps again for up to 2 hours until it all goes back into solution.
