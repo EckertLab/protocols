@@ -9,7 +9,7 @@ off for sequencing.  We're shooting for 15-20 ng/ul in a 50-100 ul volume with a
 This procedure is based on [Qiagen FAQ #2953] (http://www.qiagen.com/us/resources/faq?id=5cf3006a-c63f-48d6-89d9-9ae14329c230&lang=en)
 
 ##Before getting started
-1. Place the centrifuge rotor in the -80 for 20 minutes or so.
+1. Place the centrifuge rotor in the -80 ºC freezer for 20 minutes or so.
 2. Note your initial DNA volume and adjust the volumes below.  It's helpful to write these all down before starting.
 3. Set up the centrifuge to spin at 12,000 x g (not 12,000 RPM).
 4. Heat the water bath up to 55 ºC
