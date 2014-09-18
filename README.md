@@ -6,12 +6,12 @@ Andrew J. Eckert (EckertLab) at Virginia Commonwealth
 University.  To get started, please do the following:
 
 1. Create a local directory on your computer (e.g., ~/src/eckertlab)
+2. Clone this repository `git clone git@github.com:EckertLab/protocols.git`
+3. Change to the `protocols` directory and get started by adding, commiting and pushing back to this repository.
 
-1. Clone this repository `git clone
-git@github.com:EckertLab/protocols.git`
+*or...*
 
-1. Change to the `protocols`
-directory and get started by adding, commiting and pushing back to this repository.
+* Click the `+` next to the repository name above and start editing online
 
 Everyone in the Eckert Lab is an admin for this organization, but if you have trouble
 please let us know.
