@@ -13,7 +13,7 @@ git@github.com:EckertLab/protocols.git`
 1. Change to the `protocols`
 directory and get started by adding, commiting and pushing back to this repository.
 
-Everyone in the Eckert Lab is an admin for this organisation, but if you have trouble
+Everyone in the Eckert Lab is an admin for this organization, but if you have trouble
 please let us know.
 
 Pull requests are welcome!
