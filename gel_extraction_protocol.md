@@ -2,7 +2,7 @@
 
 ####*Prep 1*:
   * Label a blue-capped 15mL centrifuge tube as **Pooled PCR product of [sample X] [date] [initials]**.  
-Combine all of the wells from the two PCR product plates into the 15mL tube. It is best to let this sit and settle overnight so that the bubbles go down
+  * Combine all of the wells from the two PCR product plates into the 15mL tube. It is best to let this sit and settle overnight so that the bubbles go down
    * Alternatively, pipette the bubbles into a 1mL microcentrifuge tube and spin on microcentrifuge. Add the contents of microcentrifuge tube back to pooled PCR product.
 
 ####*Prep 2*:
