@@ -10,11 +10,11 @@ Combine all of the wells from the two PCR product plates into the 15mL tube. It 
 
 ___
 ___
-**_CHECK DATE OF INSTRUCTIONS THAT COME WITH GEL EXTRACTION KIT. IT SHOULD HAVE A DATE OF SEPTEMBER 2010. IF THE DATE IS DIFFERENT, COMPARE THE PROTOCOL TO THIS DOCUMENT_**
+**_CHECK DATE OF INSTRUCTIONS THAT COME WITH GEL EXTRACTION KIT. IT SHOULD HAVE A DATE OF SEPTEMBER 2010 or OCTOBER 2010. IF THE DATE IS DIFFERENT, COMPARE THE PROTOCOL TO THIS DOCUMENT_**
 ___
 ___
 
-####*Main Protocol adapted from [DNeasy® Plant Handbook](http://www.qiagen.com/resources/resourcedetail?id=95dec8a9-ec37-4457-8884-5dedd8ba9448&lang=en)*:
+####*Main Protocol adapted from [QIAquick® Gel Extraction Kit](http://www.qiagen.com/resources/resourcedetail?id=95dec8a9-ec37-4457-8884-5dedd8ba9448&lang=en)*:
 1.	Place 1% agarose gel in electrophoresis apparatus and make sure that it is completely submerged in 1x TAE buffer.
 1.	On a piece of wax paper place two 3uL drops of loading dye.
   1. After dye has been placed, add 3uL of DNA ladder to each of the two drops of dye
@@ -33,4 +33,32 @@ ___
 1.	Add 3 volumes of QG buffer to each tube and incubate at 50*C in waterbath until completely dissolved. Set to 5.
   1.	For example, for a 100mg (0.1g) sample, add 300uL of QG buffer
   1.	Note that the QG buffer is slow to come out of the pipette tip, make sure that the total volume is delivered to each tube
-
+  1.	Vortex each sample every couple of minutes to expedite the dissolution
+1.	Once dissolved, ensure that the color of the mixture is yellow (should be same color as QG buffer). If the color of the mixture is orange or violet, add 10uL 3M NaAc and mix. This should return to yellow color.
+1.	Spin each microcentrifuge tube in the microcentrifuge for 5s
+1.	Pour 5 mL isopropanol into a beaker
+1.	Add 1 volume isopropanol
+  1.	For example, for a 100mg (0.1g) sample, add 100uL of isopropanol
+1.	Calculate how many of the purple spin columns will be necessary
+  1.	Each spin column can hold up to 400mg of gel. Combining multiple gel-excised lanes into a single spin column is ok as long as the total gel mass between the lanes does not exceed 400mg. Make sure to note in a notebook which lanes are added to which spin column; make sure to label each spin column.
+  1.	Distribute lanes across spin columns as to minimize number of spin columns used; usually 6 spin columns will be sufficient
+1.	Add 750uL of the QG-buffer/gel solution to an assigned spin column.
+  1.	Centrifuge at 17900xG for 1 minute
+  1.	Discard the flow through
+  1.	If more of the QG-buffer/gel solution remains, repeat until no samples are left. Make sure to spin down the QG-buffer/gel solution tubes to ensure that all of the samples have been put through the spin columns
+1.	Add 500uL of buffer QG to each spin column and centrifuge at 17900xG for 1 minute, discard flow through
+1.	Add 750uL of buffer PE(Ensure addition of EtOH) to each spin column and let stand for 5 minutes
+  1.	Centrifuge columns at 17900xG for 1 minute, discard flow through
+1.	Centrifuge spin columns once more to remove any residual buffer, discard flow through
+1.	Place each spin column into a clean 1.5mL microcentrifuge tube; unnecessary to label the tubes
+1.	Add 25uL of buffer EB to the white center of the spin column membrane – this step will elute the DNA, if buffer EB is on the side of the spin column it cannot perform at max potential.
+  1.	Let stand for 4 minutes
+  1.	Centrifuge at 17900xG for 1 minute DO NOT DISCARD FLOW THROUGH!
+1.	Add another 25uL of buffer EB as in step 19
+  1.	Let stand for 4 minutes
+  1.	Centrifuge at 17900xG for 1 minute DO NOT DISCARD FLOW THROUGH!
+1.	Combine all elution samples into a single 1.5mL microcentrifuge tube
+  1.	Label as “*Gel-extracted [sample X] [date] [initials] [total volume of elution]*"
+  1.	It is absolutely necessary that the total volume is known, as this will be needed if the [DNA Concentration Protocol](https://github.com/EckertLab/protocols/blob/master/dna_concentration.md) is required.
+1.	Nanodrop Sample
+  1.	If total DNA concentration < 10 ng/μL, use concentration protocol and tell Dr. Eckert
