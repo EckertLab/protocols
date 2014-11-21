@@ -3,7 +3,7 @@ adapted from [Parchman et al. (2012)](http://onlinelibrary.wiley.com/doi/10.1111
 ___
 ##Digestion:
 **_Making Master Mix I for Digestion (150% of what you will need)_**  
-This is good for one 96-well plate.  
+This is good for one 96-well plate. Once made, store in -20°C freezer.  
 * Label a 1.5mL microcentrifuge tube with **MMI** and into it pipette:
   * 36 μL ultrapure H<sub>2</sub>O  
   * 86.4μL 1mg/mL BSA  
@@ -23,15 +23,14 @@ This is good for one 96-well plate.
   1. Do not label with ‘Digestion’, label with ‘digested’ to emphasize past tense.
 1. Centrifuge at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place in Thermocycler and start the Digest Cycle
-1. Once cycle has completed, place in 20°C refridgerator in the section labeled "**Ready for Ligation**".
+1. Once cycle has completed, place in 4°C refridgerator in the section labeled "**Ready for Ligation**".
 
 ___
 
 
 ##Ligation:
 **_Making Master Mix II for Ligation (125% of what you will need)_**  
-This is good for one 96-well plate. _Note that the official protocol calls for addition of MseI adaptor to Master Mix II, we DO NOT add it to this Master Mix 
-since it is already included in Master Mix I_  
+This is good for one 96-well plate. Once made, store in -20°C refridgerator. _Note that the official protocol calls for addition of MseI adaptor to Master Mix II, we DO NOT add it to this Master Mix since it is already included in Master Mix I_  
 * Label a 1.5mL microcentrifuge with "**MMII**"  
 * Into it pipette:
   * 8.64μL ultrapure H<sub>2</sub>O
@@ -42,7 +41,7 @@ since it is already included in Master Mix I_
 
 **_Ligation Protocol_**  
 
-1. Spin digested product in centrifuge at 1000g for 20s.
+1. Spin digested product in centrifuge at 1000xG for 20s.
 1. Spin Master Mix II tubes (labeled as MMII or MM2) in the microcentrifuge for 5s.
 1. Add 0.5μL of Master Mix II to each well
 1. Spin annealed EcoRI and MseI plates at 1000g for 20s.
@@ -63,14 +62,14 @@ since it is already included in Master Mix I_
   1. Do not label with ‘ligation’, label with ‘ligated’ to emphasize past tense.
 1. Centrifuge ligation plate at 1000g for 20s to pull all liquid to the bottom of the wells
 1. Place in Thermocycler and start the Ligation cycle
-1. Once cycle has completed, place in 20°C refrigerator in section labeled "**Ready for PCR**"
+1. Once cycle has completed, place in 4°C refrigerator in section labeled "**Ready for PCR**"
 
 
 ___
 
 ##PCR
 **_Making 380μL of 5μM PCR primers for Master Mix III_**  
-This is enough for all three tubes of MM3 needed  
+This is enough for all three tubes of MM3 needed. Once made, store in -20°C freezer.  
   * Label a 1.5mL microcentrifuge tube with "**PCR Primers**"
   * Into it pipette:  
     * 10μL 100μM Illpcr F Primer  
@@ -78,14 +77,14 @@ This is enough for all three tubes of MM3 needed
     * 360μL ultrapure H<sub>2</sub>O  
 
 **_Making 100μL of 10mM dNTP mix for Master Mix III_**  
-This is enough for all three tubes of MM3 needed  
+This is enough for all three tubes of MM3 needed. Once made, store in -20°C freezer.  
   * Label a 1.5mL microcentrifuge tube with "**dNTP Mix**"  
   * Into it pipette:  
     * 2.5μL of each 100mM dNTP (A, C, T, G)  
     * 90μL ultrapure H<sub>2</sub>O
 
 **_Making Master Mix III for PCR (125% if what you will need)_**  
-  * You will need to make 3 tubes of this Master Mix for the two 96 well plates
+  * You will need to make 3 tubes of this Master Mix for the two 96 well plates. Once made, store in -20°C refridgerator.
   * Label 3 microcentrifuge vials with MM3 on lid AND side of vial. Into each place:
     * 773.6μL ultrapure H2O (770μL + 3.6μL)  
     * 320μL 5X Iproof HF Buffer (green vial)  
@@ -114,7 +113,7 @@ This is enough for all three tubes of MM3 needed
 1. Centrifuge at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place plates in Thermocyclers and start the PCR cycles
 1. Once cycles complete, pool samples into a sterile 15mL blue-capped centrifuge tube.
-  1. Place in 20°C refrigerator in section labeled “Ready for gel extraction”
+  1. Place in 4°C refrigerator in section labeled “**Ready for gel extraction**”
 1. Perform [Gel Extraction Protocol](https://github.com/EckertLab/protocols/blob/master/gel_extraction_protocol.md) following completion of PCR
 
 
