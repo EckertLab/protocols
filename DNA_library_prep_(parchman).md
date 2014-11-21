@@ -21,6 +21,7 @@ This is good for one 96-well plate. Once made, store in -20°C freezer.
   1. Label sticker with fat-tipped marker “**Digested [Sample X] [date] [initials]**”
   1. Label the plate itself in a similar manner
   1. Do not label with ‘Digestion’, label with ‘digested’ to emphasize past tense.
+1. Vortex plate for 5s. 
 1. Centrifuge at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place in Thermocycler and start the Digest Cycle
 1. Once cycle has completed, place in 4°C refridgerator in the section labeled "**Ready for Ligation**".
@@ -30,7 +31,8 @@ ___
 
 ##Ligation:
 **_Making Master Mix II for Ligation (125% of what you will need)_**  
-This is good for one 96-well plate. Once made, store in -20°C refridgerator. _Note that the official protocol calls for addition of MseI adaptor to Master Mix II, we DO NOT add it to this Master Mix since it is already included in Master Mix I_  
+This is good for one 96-well plate. Once made, store in -20°C refridgerator.  
+_Note that the official protocol calls for addition of MseI adaptor to Master Mix II, we DO NOT add it to this Master Mix since it is already included in Master Mix I_  
 * Label a 1.5mL microcentrifuge with "**MMII**"  
 * Into it pipette:
   * 8.64μL ultrapure H<sub>2</sub>O
@@ -41,26 +43,27 @@ This is good for one 96-well plate. Once made, store in -20°C refridgerator. _N
 
 **_Ligation Protocol_**  
 
-1. Spin digested product in centrifuge at 1000xG for 20s.
+1. Once thawed, spin digested product in centrifuge at 1000xG for 20s.
 1. Spin Master Mix II tubes (labeled as MMII or MM2) in the microcentrifuge for 5s.
 1. Add 0.5μL of Master Mix II to each well
-1. Spin annealed EcoRI and MseI plates at 1000g for 20s.
+1. Spin annealed EcoRI and MseI plates at 1000xG for 20s.
 1. Orient EcoRI and MseI plates in steps 6-7 to match ligation plate orientation
 1. Using the multichannel pipette, add 1μL of annealed EcoRI adaptor to each well (this should be a plate)
   1. Always check to make sure each tip has liquid, some wells may be empty
   1. If empty you CANNOT PULL FROM OTHER WELLS!
-  1. Once complete, replace tin sticker and label with fat-tipped marker. Note if there are any empty wells.
+  1. Once complete, replace tin sticker and label with fat-tipped marker. Note on label if there are any empty wells.
   1. Check to make sure writing on plate (not sticker) is not fading. If so, rewrite using fine-tipped marker on another part of plate. Don’t write over!
 1. Using the multichannel pipette, add 1μL of annealed MseI adaptor to each well (this should be a plate)
   1. Always check to make sure each tip has liquid, some wells may be empty.
   1. If empty, you can pull from other wells YOU CANNOT DO THIS WITH ECORI
-  1. Once complete, replace tin sticker and label with fat-tipped marker. Note if there are any empty wells.
+  1. Once complete, replace tin sticker and label with fat-tipped marker. Note on label if there are any empty wells.
   1. Check to make sure writing on plate (not sticker) is not fading. If so, rewrite using fine-tipped marker on another part of plate. Don’t write over!
 1. Cover ligation plate with sticker, seal by running finger along each row and along each column to seal wells on every side
   1. Label with fat-tipped marker “*Ligated [Sample X] [date] [initials]*”
-  1. Label the plate itself in a similar manner
-  1. Do not label with ‘ligation’, label with ‘ligated’ to emphasize past tense.
-1. Centrifuge ligation plate at 1000g for 20s to pull all liquid to the bottom of the wells
+  1. Label the plate itself in a similar manner  
+  1. Do not label with ‘ligation’, label with ‘ligated’ to emphasize past tense.  
+1. Vortex plate for 5s.  
+1. Centrifuge ligation plate at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place in Thermocycler and start the Ligation cycle
 1. Once cycle has completed, place in 4°C refrigerator in section labeled "**Ready for PCR**"
 
@@ -103,7 +106,7 @@ This is enough for all three tubes of MM3 needed. Once made, store in -20°C fre
 1. Once thawed, place in ice (except for DMSO, which will freeze up again)
 1. Pour about 25mL of 0.1x TE buffer (NOT TAE!) into a beaker
 1. Centrifuge ligated samples at 1000xG for 20s to pull down liquid.
-1. Dilute ligated samples by adding 189μl of 0.1X TE buffer to each well using TE poured into the beaker in step 4
+1. Dilute ligated samples by adding 189μl of 0.1X TE buffer to each well using TE poured into the beaker in step 3
 1. Get two new 96-well plates and label ON THE PLATE with fine-tipped permanent marker “**PCR Product [sample] [date] [initials]**”
 1. Orient these plates in the same direction as ligated plate!
   1. Using the multichannel pipette, add 4μl of the diluted, ligated, samples to the 2 NEW plates – DO NOT REUSE PIPETTE TIPS except for the same row across the two plates
