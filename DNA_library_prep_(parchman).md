@@ -17,11 +17,11 @@ This is good for one 96-well plate.
 1. Place 6μL of genomic DNA into each of the wells of a 96 well plate
 1. Vortex and centrifuge Master Mix I tubes in microcentrifuge for 5s
 1. Add 3μL of Master Mix I to each well
-1. Centrifuge at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Cover plate with sticker, seal by running finger along each row and along each column to seal wells on every side
   1. Label sticker with fat-tipped marker “**Digested [Sample X] [date] [initials]**”
   1. Label the plate itself in a similar manner
   1. Do not label with ‘Digestion’, label with ‘digested’ to emphasize past tense.
+1. Centrifuge at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place in Thermocycler and start the Digest Cycle
 1. Once cycle has completed, place in 20°C refridgerator in the section labeled "**Ready for Ligation**".
 
