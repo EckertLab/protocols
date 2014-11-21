@@ -12,7 +12,7 @@ _Directions for 4" x 5.75" gel (used in gel extraction)_:
 * Add 2.25g agarose to a 500mL Erlenmeyer flask  
   * Add 225mL of 1.00x TAE buffer to the flask  
 * Microwave flask for 2.5 minutes 
-  * make sure agarose is completely dissolved in TAE. Swirl flask if it is not, microwave for another 15-20s if needed.  
+  * After 2.5 minutes make sure agarose is completely dissolved in TAE. Swirl flask if it is not, microwave for another 15-20s if needed.  
 * Add 1.5μL ethidium bromide to flask.  
 * Pour into gel mold with comb in place.  
 * Let sit for ~30 minutes to 1 hour.  
