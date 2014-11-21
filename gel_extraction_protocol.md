@@ -16,12 +16,12 @@ ___
 
 ####*Main Protocol adapted from [QIAquick® Gel Extraction Kit](http://www.qiagen.com/resources/resourcedetail?id=95dec8a9-ec37-4457-8884-5dedd8ba9448&lang=en)*:
 1.	Place 1% agarose gel in electrophoresis apparatus and make sure that it is completely submerged in 1x TAE buffer.
-1.	On a piece of wax paper place two 3uL drops of loading dye.
-  1. After dye has been placed, add 3uL of DNA ladder to each of the two drops of dye
+1.	On a piece of wax paper place two 3μL drops of loading dye.
+  1. After dye has been placed, add 3μL of DNA ladder to each of the two drops of dye
   2. Add the first dye/ladder drop to the first lane of the gel
   3. Add the second dye/ladder drop to the 14th lane of the gel
-1.	Into a 1.5mL centrifuge tube combine 710uL of pooled PCR product and 36uL of loading dye
-  1.	Add 60uL of the dye/PCR-product mix to each of lanes 2-13
+1.	Into a 1.5mL centrifuge tube combine 710μL of pooled PCR product and 36μL of loading dye
+  1.	Add 60μL of the dye/PCR-product mix to each of lanes 2-13
 1.	Run gel for 1 hour at 110V
 1.	After running gel, label 12 microcentrifuge tubes 1-12
 1.	Using a scalpel or razor blade, cut out the section of the gel between 300-500bp while over UV light
@@ -31,30 +31,30 @@ ___
   1.	Zero the scale with an empty 1.5mL microcentrifuge tube
   1.	Place each of the 12 microcentrifuge tubes containing excised lanes on the scale and record mass in lab notebook with respective label of tube
 1.	Add 3 volumes of QG buffer to each tube and incubate at 50*C in waterbath until completely dissolved. Set to 5.
-  1.	For example, for a 100mg (0.1g) sample, add 300uL of QG buffer
+  1.	For example, for a 100mg (0.1g) sample, add 300μL of QG buffer
   1.	Note that the QG buffer is slow to come out of the pipette tip, make sure that the total volume is delivered to each tube
   1.	Vortex each sample every couple of minutes to expedite the dissolution
-1.	Once dissolved, ensure that the color of the mixture is yellow (should be same color as QG buffer). If the color of the mixture is orange or violet, add 10uL 3M NaAc and mix. This should return to yellow color.
+1.	Once dissolved, ensure that the color of the mixture is yellow (should be same color as QG buffer). If the color of the mixture is orange or violet, add 10μL 3M NaAc and mix. This should return to yellow color.
 1.	Spin each microcentrifuge tube in the microcentrifuge for 5s
 1.	Pour 5 mL isopropanol into a beaker
 1.	Add 1 volume isopropanol
-  1.	For example, for a 100mg (0.1g) sample, add 100uL of isopropanol
+  1.	For example, for a 100mg (0.1g) sample, add 100μL of isopropanol
 1.	Calculate how many of the purple spin columns will be necessary
   1.	Each spin column can hold up to 400mg of gel. Combining multiple gel-excised lanes into a single spin column is ok as long as the total gel mass between the lanes does not exceed 400mg. Make sure to note in a notebook which lanes are added to which spin column; make sure to label each spin column.
   1.	Distribute lanes across spin columns as to minimize number of spin columns used; usually 6 spin columns will be sufficient
-1.	Add 750uL of the QG-buffer/gel solution to an assigned spin column.
+1.	Add 750μL of the QG-buffer/gel solution to an assigned spin column.
   1.	Centrifuge at 17900xG for 1 minute
   1.	Discard the flow through
   1.	If more of the QG-buffer/gel solution remains, repeat until no samples are left. Make sure to spin down the QG-buffer/gel solution tubes to ensure that all of the samples have been put through the spin columns
-1.	Add 500uL of buffer QG to each spin column and centrifuge at 17900xG for 1 minute, discard flow through
-1.	Add 750uL of buffer PE(Ensure addition of EtOH) to each spin column and let stand for 5 minutes
+1.	Add 500μL of buffer QG to each spin column and centrifuge at 17900xG for 1 minute, discard flow through
+1.	Add 750μL of buffer PE(Ensure addition of EtOH) to each spin column and let stand for 5 minutes
   1.	Centrifuge columns at 17900xG for 1 minute, discard flow through
 1.	Centrifuge spin columns once more to remove any residual buffer, discard flow through
 1.	Place each spin column into a clean 1.5mL microcentrifuge tube; unnecessary to label the tubes
-1.	Add 25uL of buffer EB to the white center of the spin column membrane – this step will elute the DNA, if buffer EB is on the side of the spin column it cannot perform at max potential.
+1.	Add 25μL of buffer EB to the white center of the spin column membrane – this step will elute the DNA, if buffer EB is on the side of the spin column it cannot perform at max potential.
   1.	Let stand for 4 minutes
   1.	Centrifuge at 17900xG for 1 minute DO NOT DISCARD FLOW THROUGH!
-1.	Add another 25uL of buffer EB as in step 19
+1.	Add another 25μL of buffer EB as in step 19
   1.	Let stand for 4 minutes
   1.	Centrifuge at 17900xG for 1 minute DO NOT DISCARD FLOW THROUGH!
 1.	Combine all elution samples into a single 1.5mL microcentrifuge tube
