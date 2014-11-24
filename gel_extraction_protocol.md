@@ -37,7 +37,7 @@ ___
 1.	Once dissolved, ensure that the color of the mixture is yellow (should be same color as QG buffer). If the color of the mixture is orange or violet, add 10μL 3M NaAc and mix. This should return to yellow color.
 1.	Spin each microcentrifuge tube in the microcentrifuge for 5s
 1.	Pour 5 mL isopropanol into a beaker
-1.	Add 1 volume isopropanol
+1.	Add 1 volume isopropanol to each microcentrifuge tube the dissolved lanes
   1.	For example, for a 100mg (0.1g) sample, add 100μL of isopropanol
 1.	Calculate how many of the purple spin columns will be necessary
   1.	Each spin column can hold up to 400mg of gel. Combining multiple gel-excised lanes into a single spin column is ok as long as the total gel mass between the lanes does not exceed 400mg. Make sure to note in a notebook which lanes are added to which spin column; make sure to label each spin column.
