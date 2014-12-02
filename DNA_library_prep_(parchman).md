@@ -32,7 +32,7 @@ ___
 ##Ligation:
 **_Making Master Mix II for Ligation (125% of what you will need)_**  
 This is good for one 96-well plate. Once made, store in -20°C refridgerator.  
-_Note that the official protocol calls for addition of MseI adaptor to Master Mix II, we DO NOT add it to this Master Mix since it is already included in Master Mix I_  
+_Note that the official protocol calls for addition of MseI adaptor to Master Mix II, we DO NOT add it to this Master Mix since it is included in the ligation protocol below_  
 * Label a 1.5mL microcentrifuge with "**MMII**"  
 * Into it pipette:
   * 8.64μL ultrapure H<sub>2</sub>O
