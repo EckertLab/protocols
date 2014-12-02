@@ -48,6 +48,7 @@ _Note that the official protocol calls for addition of MseI adaptor to Master Mi
 1. Add 0.5μL of Master Mix II to each well
 1. Spin annealed EcoRI and MseI plates at 1000xG for 20s.
 1. Orient EcoRI and MseI plates in steps 6-7 to match ligation plate orientation
+1. Did you orient the plates from Step 5??
 1. Using the multichannel pipette, add 1μL of annealed EcoRI adaptor to each well (this should be a plate)
   1. Always check to make sure each tip has liquid, some wells may be empty
   1. If empty you CANNOT PULL FROM OTHER WELLS!
