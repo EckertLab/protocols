@@ -14,7 +14,7 @@ ___
 ___
 ___
 
-####*Main Protocol adapted from [QIAquick® Gel Extraction Kit](http://www.qiagen.com/resources/resourcedetail?id=95dec8a9-ec37-4457-8884-5dedd8ba9448&lang=en)*:
+####*Main Protocol adapted from [QIAquick® Gel Extraction Kit](http://2014.igem.org/wiki/images/f/fe/QIAquick-Gel-Extraction-Kit-EN.pdf)*:
 1.	Place 1% agarose gel in electrophoresis apparatus and make sure that it is completely submerged in 1x TAE buffer.
 1.	On a piece of wax paper place two 3μL drops of loading dye.
   1. After dye has been placed, add 3μL of DNA ladder to each of the two drops of dye
