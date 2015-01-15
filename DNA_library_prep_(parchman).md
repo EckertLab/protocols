@@ -24,6 +24,7 @@ This is good for one 96-well plate. Once made, store in -20°C freezer.
 1. Vortex plate for 5s. 
 1. Centrifuge at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place in Thermocycler and start the Digest Cycle
+  1. ![Thermocycler program](http://4.bp.blogspot.com/-e6SPURb-Vlo/VLfyVhJRUdI/AAAAAAAAAq0/CZXib9eSYtM/s1600/unnamed.jpg) 
 1. Once cycle has completed, place in 4°C refridgerator in the section labeled "**Ready for Ligation**".
 
 ___
