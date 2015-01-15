@@ -1,5 +1,9 @@
 #Gel Extraction Protocol
 
+This protocol is used to select fragment sizes for pooled PCR products produced from our [multiplexed DNA library
+preparation protocol](https://github.com/EckertLab/protocols/blob/master/DNA_library_prep_(parchman).md). For conifers,
+we generally cut a bandwidth covering between 300-500bp.
+
 ####*Prep 1*:
   * Label a blue-capped 15mL centrifuge tube as **Pooled PCR product of [sample X] [date] [initials]**.  
   * Combine all of the wells from the two PCR product plates into the 15mL tube. It is best to let this sit and settle overnight so that the bubbles go down
