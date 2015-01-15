@@ -35,7 +35,7 @@ ___
   1.	Place each lane into one of the 12 labeled microcentrifuge tubes; order does not matter
   1.	Zero the scale with an empty 1.5mL microcentrifuge tube
   1.	Place each of the 12 microcentrifuge tubes containing excised lanes on the scale and record mass in lab notebook with respective label of tube
-1.	Add 3 volumes of QG buffer to each tube and incubate at 50*C in waterbath until completely dissolved. Set to 5.
+1.	Add 3 volumes of QG buffer to each tube and incubate at 50*C in waterbath (our setting = 5) until completely dissolved.
   1.	For example, for a 100mg (0.1g) sample, add 300μL of QG buffer
   1.	Note that the QG buffer is slow to come out of the pipette tip, make sure that the total volume is delivered to each tube
   1.	Vortex each sample every couple of minutes to expedite the dissolution
