@@ -30,7 +30,8 @@ ___
 1.	After running gel, label 12 microcentrifuge tubes 1-12
 1.	Using a scalpel or razor blade, cut out the section of the gel between 300-500bp while over UV light
   1.	Make sure to minimize exposure of DNA to UV light
-1.	Cut out each of the 12 lanes from the excised gel section and trim off excess gel from each, minimizing exposure of DNA to UV light
+1.	Cut out each of the 12 lanes from the excised gel section and remove from UV light
+  1.	One at a time, place each excised lane onto UV light and trim off excess gel (above, below, and to the sides of fluorescence) from each, minimizing exposure of DNA to UV light
   1.	Place each lane into one of the 12 labeled microcentrifuge tubes; order does not matter
   1.	Zero the scale with an empty 1.5mL microcentrifuge tube
   1.	Place each of the 12 microcentrifuge tubes containing excised lanes on the scale and record mass in lab notebook with respective label of tube
