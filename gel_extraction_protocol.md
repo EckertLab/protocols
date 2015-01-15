@@ -49,7 +49,7 @@ ___
   1.	Assign excized lanes to spin columns
     2.	Each spin column can hold up to 400mg of gel. Combining multiple gel-excised lanes into a single spin column is ok as long as the total gel mass between the lanes does not exceed 400mg. Make sure to note in a notebook which lanes will be added to which spin column; make sure to label each spin column.
     1.	Assign excised lanes across spin columns as to minimize number of spin columns used; usually 6 spin columns will be sufficient
-1.	Add (at most) 750μL of the QG-buffer/excised-gel solution to an assigned spin column. A larger volume will splash when closing the spin column lid.
+1.	Add (at most) 750μL of (any of) the assigned QG-buffer/excised-gel solution to an assigned spin column. A larger volume will splash when closing the spin column lid.
   1.	Centrifuge at 17900xG for 1 minute
   1.	Discard the flow through
   1.	If more of the QG-buffer/excised-gel solution remains, repeat until no samples are left. Make sure to spin down the QG-buffer/excised-gel solution tubes to ensure that all of the samples have been put through the spin columns
