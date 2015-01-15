@@ -37,14 +37,14 @@ ___
   1.	Place each of the 12 microcentrifuge tubes containing excised lanes on the scale and record mass in lab notebook with respective label of tube
 1.	Add 3 volumes of QG buffer to each tube and incubate at 50*C in waterbath (our setting = 5) until completely dissolved.
   1.	For example, for a 100mg (0.1g) sample, add 300μL of QG buffer
-  1.	Note that the QG buffer is slow to come out of the pipette tip, make sure that the total volume is delivered to each tube
   1.	Vortex each sample every couple of minutes to expedite the dissolution
 1.	Once dissolved, ensure that the color of the mixture is yellow (should be same color as QG buffer). If the color of the mixture is orange or violet, add 10μL 3M NaAc and mix. This should return to yellow color.
-1.	Spin each microcentrifuge tube in the microcentrifuge for 5s
+1.	Spin each microcentrifuge tube in the microcentrifuge for 5s to remove sample from lids
 1.	Pour 5 mL isopropanol into a beaker
-1.	Add 1 volume isopropanol to each microcentrifuge tube the dissolved lanes
+1.	Add 1 volume isopropanol to each microcentrifuge tube containing the dissolved lanes
   1.	For example, for a 100mg (0.1g) sample, add 100μL of isopropanol
 1.	Calculate how many of the purple spin columns will be necessary
+  1.	The purple spin columns are the limiting factor for these kits (i.e., the number of samples that can be processed from this kit is limited to the number of included spin columns - there has always been sufficient excess of buffers etc)
   1.	Each spin column can hold up to 400mg of gel. Combining multiple gel-excised lanes into a single spin column is ok as long as the total gel mass between the lanes does not exceed 400mg. Make sure to note in a notebook which lanes are added to which spin column; make sure to label each spin column.
   1.	Distribute lanes across spin columns as to minimize number of spin columns used; usually 6 spin columns will be sufficient
 1.	Add 750μL of the QG-buffer/gel solution to an assigned spin column.
