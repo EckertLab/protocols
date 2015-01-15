@@ -46,8 +46,9 @@ ___
   1.	For example, for a 100mg (0.1g) sample, add 100μL of isopropanol
 1.	Calculate how many of the purple spin columns will be necessary
   1.	The purple spin columns are the limiting factor for these kits (i.e., the number of samples that can be processed from this kit is limited to the number of included spin columns - there has always been sufficient excess of buffers etc)
-  1.	Each spin column can hold up to 400mg of gel. Combining multiple gel-excised lanes into a single spin column is ok as long as the total gel mass between the lanes does not exceed 400mg. Make sure to note in a notebook which lanes are added to which spin column; make sure to label each spin column.
-  1.	Distribute lanes across spin columns as to minimize number of spin columns used; usually 6 spin columns will be sufficient
+  1.	Assign excized lanes to spin columns
+    2.	Each spin column can hold up to 400mg of gel. Combining multiple gel-excised lanes into a single spin column is ok as long as the total gel mass between the lanes does not exceed 400mg. Make sure to note in a notebook which lanes will be added to which spin column; make sure to label each spin column.
+    1.	Assign excised lanes across spin columns as to minimize number of spin columns used; usually 6 spin columns will be sufficient
 1.	Add 750μL of the QG-buffer/gel solution to an assigned spin column.
   1.	Centrifuge at 17900xG for 1 minute
   1.	Discard the flow through
