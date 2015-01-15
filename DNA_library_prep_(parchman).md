@@ -68,6 +68,7 @@ _Note that the official protocol calls for addition of MseI adaptor to Master Mi
 1. Vortex plate for 5s.  
 1. Centrifuge ligation plate at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place in Thermocycler and start the Ligation cycle
+  1. ![Thermocycler setting](http://2.bp.blogspot.com/-ytBH1GGjlDM/VLfyV20iqaI/AAAAAAAAAqw/io6rOJAdFKo/s1600/unnamed-1.jpg)
 1. Once cycle has completed, place in 4°C refrigerator in section labeled "**Ready for PCR**"
 
 
@@ -118,6 +119,7 @@ This is enough for all three tubes of MM3 needed. Once made, store in -20°C fre
   1. Do not label with just ‘PCR’, label with ‘PCR Product’ to emphasize past tense.
 1. Centrifuge at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place plates in Thermocyclers and start the PCR cycles
+  1. ![Thermocycler setting](http://4.bp.blogspot.com/-xsMSgVGlnkE/VLfyfdTraQI/AAAAAAAAArA/1_NRwjjYqDg/s1600/unnamed-2.jpg)
 1. Once cycles complete, pool samples into a sterile 15mL blue-capped centrifuge tube.
   1. Place in 4°C refrigerator in section labeled “**Ready for gel extraction**”
 1. Perform [Gel Extraction Protocol](https://github.com/EckertLab/protocols/blob/master/gel_extraction_protocol.md) following completion of PCR
