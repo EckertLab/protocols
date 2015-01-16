@@ -14,7 +14,7 @@ This is good for one 96-well plate. Once made, store in -20°C freezer.
 
 **_Digestion Protocol:_**  
 
-1. Place 6μL of genomic DNA into each of the wells of a 96 well plate
+1. For each sample, place 6μL of genomic DNA into the assigned well of a 96-well plate
 1. Vortex and centrifuge Master Mix I tubes in microcentrifuge for 5s
 1. Add 3μL of Master Mix I to each well
 1. Cover plate with sticker, seal by running finger along each row and along each column to seal wells on every side
