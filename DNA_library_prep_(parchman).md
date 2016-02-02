@@ -17,7 +17,7 @@ This is good for one 96-well plate. Once made, store in -20°C freezer. Always l
 **_Digestion Protocol:_**  
 
 1. For each sample, place 6μL of genomic DNA into the assigned well of a 96-well plate
-1. Vortex and centrifuge Master Mix I tubes in microcentrifuge for 5s
+1. Vortex and centrifuge Master Mix I vials in microcentrifuge for 5s
 1. Add 3μL of Master Mix I to each well
 1. Cover plate with sticker, seal by running finger along each row and along each column to seal wells on every side
   1. Label sticker with fat-tipped marker “**Digested [Sample X] [date] [initials]**”
@@ -47,7 +47,7 @@ _Note that the official protocol calls for addition of MseI adaptor to Master Mi
 **_Ligation Protocol_**  
 
 1. Once thawed, spin digested product in centrifuge at 1000xG for 20s.
-1. Spin Master Mix II tubes (labeled as MMII or MM2) in the microcentrifuge for 5s.
+1. Spin Master Mix II vials (labeled as MMII or MM2) in the microcentrifuge for 5s.
 1. Add 0.5μL of Master Mix II to each well
 1. Spin annealed EcoRI and MseI plates at 1000xG for 20s.
 1. Orient EcoRI and MseI plates in steps 6-7 to match ligation plate orientation
@@ -78,7 +78,7 @@ ___
 
 ##PCR
 **_Making 380μL of 5μM PCR primers for Master Mix III_**  
-This is enough for all three tubes of MM3 needed. Once made, store in -20°C freezer.  Always label with made-on date, MMIII will expire in time. 
+This is enough for all three vials of MM3 needed. Once made, store in -20°C freezer.  Always label with made-on date, MMIII will expire in time. 
   * Label a 1.5mL microcentrifuge tube with "**PCR Primers**"
   * Into it pipette:  
     * 10μL 100μM Illpcr F Primer  
@@ -86,14 +86,14 @@ This is enough for all three tubes of MM3 needed. Once made, store in -20°C fre
     * 360μL ultrapure H<sub>2</sub>O  
 
 **_Making 100μL of 10mM dNTP mix for Master Mix III_**  
-This is enough for all three tubes of MM3 needed. Once made, store in -20°C freezer. Always label with made-on date, dNTPs will expire in time. 
+This is enough for all three vials of MM3 needed. Once made, store in -20°C freezer. Always label with made-on date, dNTPs will expire in time. 
   * Label a 1.5mL microcentrifuge tube with "**dNTP Mix**"  
   * Into it pipette:  
     * 2.5μL of each 100mM dNTP (A, C, T, G)  
     * 90μL ultrapure H<sub>2</sub>O
 
 **_Making Master Mix III for PCR (125% if what you will need)_**  
-  * You will need to make 3 tubes of this Master Mix for the two 96 well plates. Once made, store in -20°C refridgerator. Always label with made-on date, dNTPs and polymerase will expire in time.
+  * You will need to make 3 vials of this Master Mix for the two 96 well plates. Once made, store in -20°C refridgerator. Always label with made-on date, dNTPs and polymerase will expire in time.
   * Label 3 microcentrifuge vials with MM3 on lid AND side of vial. Into each place:
     * 773.6μL ultrapure H2O (770μL + 3.6μL)  
     * 320μL 5X Iproof HF Buffer (green vial)  
