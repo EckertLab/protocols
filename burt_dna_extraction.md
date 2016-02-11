@@ -12,13 +12,14 @@ This is the modified version of the Qiagen Plant 96 Kit for extracting DNA from 
 
 ### Prepare the working lysis solution
 
-The volumes below are for **two 96-well plates**.  If you are only doing a single plate, divide the volumes in half.
+The volumes below are for **2 x 96-well plates**.  **If you are only doing a single plate, divide the volumes in half**
 
 - [ ] Once the water bath has reached temperature, put solution **AP1** into the bath. If it starts to float, you can weigh it down with an inverted beaker on the top.  Let it warm for about **30 minutes**
-- [ ] In a 100 ml disposable reservoir, add the following:
+- [ ] In a flask of appropriate size, add the following:
     - [ ] 90 ml pre-heated Buffer AP1
     - [ ] 225 &mu;l RNase A
     - [ ] 225 &mu;l Reagent DX
+- [ ] After thoroughly mixed, add the solution to a disposable 100 ml reservoir.
 
 ### Transfer needles to Qiagen shaker plate (light blue)
 
