@@ -10,6 +10,16 @@ This is the modified version of the Qiagen Plant 96 Kit for extracting DNA from 
 - [ ] Prepare the centrifuge with the plate rotor and appropriate settings.
 - [ ] Make sure you have clean flasks and graduated cylinder to accommodate multichannel reservoir volumes.
 
+### Transfer needles to Qiagen shaker plate (light blue)
+
+- [ ] Obtain a shaker plate and orient **identically** with the sample plate from the freezer (A1 in the upper left).
+- [ ] For each sample of prepared (i.e., finely cut) needle tissue, invert the tube (cap on the bottom) and tap so that all needle tissue falls away from the tip of the tube.
+- [ ] With sharp scissors, cut off (at a slight angle) the tip of the tube.
+- [ ] In the identical well on the shaker plate, invert the needle tub again and tap the cap to transfer all of the tissue.
+- [ ] Repeat for each sample until all 96 have been transferred from the plate in the freezer to the light blue shaker plate.
+- [ ] Add a [clean](cleaning_beads.md) tungsten carbide bead to each tube.
+
+
 ### Prepare the working lysis solution
 
 The volumes below are for **2 x 96-well plates**.  **If you are only doing a single plate, divide the volumes in half**
@@ -21,14 +31,6 @@ The volumes below are for **2 x 96-well plates**.  **If you are only doing a sin
     - [ ] 225 &mu;l Reagent DX
 - [ ] After thoroughly mixed, add the solution to a disposable 100 ml reservoir.
 
-### Transfer needles to Qiagen shaker plate (light blue)
-
-- [ ] Obtain a shaker plate and orient **identically** with the sample plate from the freezer (A1 in the upper left).
-- [ ] For each sample of prepared (i.e., finely cut) needle tissue, invert the tube (cap on the bottom) and tap so that all needle tissue falls away from the tip of the tube.
-- [ ] With sharp scissors, cut off (at a slight angle) the tip of the tube.
-- [ ] In the identical well on the shaker plate, invert the needle tub again and tap the cap to transfer all of the tissue.
-- [ ] Repeat for each sample until all 96 have been transferred from the plate in the freezer to the light blue shaker plate.
-- [ ] Add a [clean](cleaning_beads.md) tungsten carbide bead to each tube.
 
 ## Prepare needles for lysis and grind
 
