@@ -97,7 +97,7 @@ The volumes below are for **a single 96-well plate**.
 Using the newly extracted DNA, perform quantitation using the NanoDrop 8000 in the Dyer laboratory.  You can use the little multichannel, but I've had better luck just doing pulling them  individually for an entire column on the plate.
 
 - [ ] Blank with Buffer AE from the kit you used, if possible.  Otherwise, find another container of AE.
-- [ ] Use 2 &ul; draws from each sample for the NanoDrop, changing tips each time to **avoid contamination**.
+- [ ] Use 2 &mu;l draws from each sample for the NanoDrop, changing tips each time to **avoid contamination**.
 - [ ] Make sure that the correct column is indicated in the software before you take measurements.
 - [ ] Take 3 readings from the NanoDrop for each sample.  Do not add more DNA, just hit the measure button.  I take the average reading for a single 2 &ul; volume to represent the concentration.
 - [ ] Once done, save the report on a thumb drive and give to Chris.
