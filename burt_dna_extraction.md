@@ -8,7 +8,7 @@ This is the modified version of the Qiagen Plant 96 Kit for extracting DNA from 
 - [ ] Heat the water bath to to 65&#8451;. I set the temp to 10 and the limit to 6.5.
 - [ ] Make not of the kit lot # and lot #s of all reagents, if you've not used the kit before.  If you have used the kit, reference it in your lab notebook.
 - [ ] Prepare the centrifuge with the plate rotor and appropriate settings.
-- [ ] Make sure you have clean flasks and graduated cylinder to accommodate multichannel reservoir volumes.
+- [ ] Make sure you have clean flasks and graduated cylinders to accommodate multichannel reservoir volumes.
 
 ### Transfer needles to Qiagen shaker plate (light blue)
 
