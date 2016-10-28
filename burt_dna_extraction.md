@@ -99,6 +99,6 @@ Using the newly extracted DNA, perform quantitation using the NanoDrop 8000 in t
 - [ ] Blank with Buffer AE from the kit you used, if possible.  Otherwise, find another container of AE.
 - [ ] Use 2 &mu;l draws from each sample for the NanoDrop, changing tips each time to **avoid contamination**.
 - [ ] Make sure that the correct column is indicated in the software before you take measurements.
-- [ ] Take 3 readings from the NanoDrop for each sample.  Do not add more DNA, just hit the measure button.  I take the average reading for a single 2 &ul; volume to represent the concentration.
+- [ ] Take 3 readings from the NanoDrop for each sample.  Do not add more DNA, just hit the measure button.  I take the average reading for a single 2 &mu;l volume to represent the concentration.
 - [ ] Once done, save the report on a thumb drive and give to Chris.
 - [ ] We want 260/280 to be at least 1.8 and the concentration to be at least 10 ng/ml
