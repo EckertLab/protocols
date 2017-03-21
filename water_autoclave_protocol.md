@@ -1,6 +1,6 @@
 #Water Autoclave Protocol
 
-1. Fill cap-sealable bottle(s) with DI water
+1. Fill cap-sealable bottle(s) with DI water from the tap
   1. Do not screw on lid, screw just enough so that when pulling up on it the lid will hold onto the bottle; once the water is heated inside the bottle, air and vapor will need to escape
 1. Place bottle(s) into an autoclave-safe tub
   1. Fill tub with a 1-2 inches of water
