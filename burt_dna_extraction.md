@@ -29,7 +29,7 @@ The volumes below are for **2 x 96-well plates**.  **If you are only doing a sin
     - [ ] 90 ml pre-heated Buffer AP1
     - [ ] 225 &mu;l RNase A
     - [ ] 225 &mu;l Reagent DX
-- [ ] After thoroughly mixed, add the solution to a disposable 100 ml reservoir.
+- [ ] After thoroughly mixed and after the Reagent DX has dissolved completely, add the solution to a disposable 100 ml reservoir.
 
 
 ## Prepare needles for lysis and grind
@@ -39,8 +39,11 @@ The volumes below are for **a single 96-well plate**.
 - [ ] Add 400 &mu;l of working lysis solution to each collection microtube in the shaker plate.  Use a **multichannel pipettor** , a 50 ml disposable reservoir, and fill the tubes column-wise. 400 &mu;l x 96 wells x 1.1 = **42.2 ml**.
 - [ ] Seal the tubes **very well** with the provided plastic cap strips.
 - [ ] Assemble each rack into the TissueLyser adapter, making note of the orientation.  For the first round, keep the well A1 close to the tissue lyser.  Grind the samples at **20 Hz for 3 minutes**.
-- [ ] For the second round, remove the metal adapter plates (maintaining their orientation), spin the shaker plate **180 degrees**, then place back into the adapter plates.  If you've done this right, well A1 is now closer to you than the machine.
+- [ ] For the second round, remove the metal adapter plates (maintaining their orientation), switch the shaker plates, then place back into the adapter plates.  
 - [ ] Grind the samples again at **20 Hz for 3 minutes**.
+- [ ] For the third round spin the shaker plate **180 degrees** and grind at  **30 Hz for 4 minutes**.
+- [ ] Switch the shaker plates and grind the samples again at  **30 Hz for 4 minutes**.
+
 
 ## Isolate the DNA
 
