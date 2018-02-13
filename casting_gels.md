@@ -1,12 +1,12 @@
-#Casting gels for electrophoresis and gel extractions
+# Casting gels for electrophoresis and gel extractions
 
-####Prep: Make stock solution of 1.00x TAE buffer for use in gel casting and buffer solution in gel boxes during electrophoresis.
+#### Prep: Make stock solution of 1.00x TAE buffer for use in gel casting and buffer solution in gel boxes during electrophoresis.
   * Using a graduated cylinder, measure out 100mL of 10x TAE buffer.
   * Using a graduated cylinder, measure out 900mL of DI H<sub>2</sub>O.
   * Combine the two volumes in a 1000mL orange-capped Pyrex jar.
   * Label jar with TAE concentration, your initials, and the date.
 
-####Making 1% gel with 1.00x TAE buffer:
+#### Making 1% gel with 1.00x TAE buffer:
 _Directions for 4" x 5.75" gel (used in gel extraction)_:
 * Set up gel mold with comb in place. MAKE SURE THE TRAY IS LOCKED IN PLACE. Use bubble-level to ensure even settling of gel matrix. 
 * Add 2.25g agarose to a 500mL Erlenmeyer flask  
