@@ -1,22 +1,22 @@
-#Gel Extraction Protocol
+# Gel Extraction Protocol
 
 This protocol is used to select fragment sizes for pooled PCR products produced from our [multiplexed DNA library
 preparation protocol](https://github.com/EckertLab/protocols/blob/master/DNA_library_prep_(parchman).md). For conifers,
 we generally cut a bandwidth covering between 300-500bp.
 
-####*Prep 1*:
+#### *Prep 1*:
   * Before you start make sure there is enough 1x TAE buffer. You will need about 1000ml, if there isn’t enough make a fresh stock using        the 10x TAE buffer and Autoclaved water. 
   * To make 1x TAE follow the  "CASTING GEL" protocol on github and to make autoclave water follow "AUTOCLAVE WATER" protocol
   * Once you have made sure there is enough 1x TAE buffer follow through the "CASTING GEL" protocol and prepare the 1% agarose gel. 
   
-####*Prep 2*:
+#### *Prep 2*:
   * Take the 100bp DNA ladder and the 6X blue dye out from the -20 freezer and let it thaw. Once thawed place on ice.
   * Label a blue-capped 15mL centrifuge tube as **Pooled PCR product of [sample X] [date] [initials]**.  
   * Centrifuge the two PCR product plates (they should be in the fridge) to let the products settle at the bottom.
   * Combine all of the wells from the two PCR product plates into the 15mL tube. To do this use a multichannel pipette (set at 20ul) and transfer the PCR products to a reservoir. Now use a 1000ul pipette and transfer everthing to the 15ml tube. 
 
 
-####*Main Protocol adapted from [QIAquick® Gel Extraction Kit](http://2014.igem.org/wiki/images/f/fe/QIAquick-Gel-Extraction-Kit-EN.pdf)*:
+#### *Main Protocol adapted from [QIAquick® Gel Extraction Kit](http://2014.igem.org/wiki/images/f/fe/QIAquick-Gel-Extraction-Kit-EN.pdf)*:
 1.	Place 1% agarose gel in electrophoresis apparatus and make sure that it is completely submerged in 1x TAE buffer.
 1.	On a piece of wax paper or in a 96 well plate used for PCR place two 3μL drops of loading dye.
   1. After dye has been placed, add 3μL of DNA ladder to each of the two drops of dye. Mix the dye and the ladder by pipetting up and down gently a few times.
