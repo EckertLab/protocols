@@ -3,9 +3,9 @@ Cleaning DNA extraction beads
 
 Adapted from [DNeasy® Plant Handbook](http://www.qiagen.com/resources/resourcedetail?id=95dec8a9-ec37-4457-8884-5dedd8ba9448&lang=en)
 
-##Appendix B: Recovery and Cleaning of Beads and S-Blocks
+## Appendix B: Recovery and Cleaning of Beads and S-Blocks
 
-###Cleaning beads and grinding balls
+### Cleaning beads and grinding balls
 
 Tungsten carbide and stainless steel beads and grinding balls can be reused. Used beads can be recovered from cell-debris and cleaned using the procedure below.
 
