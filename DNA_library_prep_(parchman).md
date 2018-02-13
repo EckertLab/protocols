@@ -24,13 +24,13 @@ This is good for one 96-well plate. Once made, store in -20°C freezer. Always l
 1. For each sample, place 6μL of genomic DNA into the assigned well of a 96-well plate
 1. Add 3μL of Master Mix I to each well
 1. Cover plate with sticker, seal by running finger along each row and along each column to seal wells on every side
-  1. Label sticker with fat-tipped marker “**Digested [Sample X] [date] [initials]**”
-  1. Label the plate itself in a similar manner
-  1. Do not label with ‘Digestion’, label with ‘digested’ to emphasize past tense.
+   1. Label sticker with fat-tipped marker “**Digested [Sample X] [date] [initials]**”
+   1. Label the plate itself in a similar manner
+   1. Do not label with ‘Digestion’, label with ‘digested’ to emphasize past tense.
 1. Vortex plate for 5s. 
 1. Centrifuge at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place in Thermocycler and start the Digest Cycle (8 hours run time)
-  1. ![Thermocycler program](http://4.bp.blogspot.com/-e6SPURb-Vlo/VLfyVhJRUdI/AAAAAAAAAq0/CZXib9eSYtM/s1600/unnamed.jpg) 
+   1. ![Thermocycler program](http://4.bp.blogspot.com/-e6SPURb-Vlo/VLfyVhJRUdI/AAAAAAAAAq0/CZXib9eSYtM/s1600/unnamed.jpg) 
 1. Once cycle has completed, place in 4°C refridgerator in the section labeled "**Ready for Ligation**".
 
 ___
@@ -62,23 +62,23 @@ _Note that the official protocol calls for addition of MseI adaptor to Master Mi
 1. Did you orient the plates from Step 5??
 1. Are you sure you oriented the plates correctly??
 1. Using the multichannel pipette, add 1μL of annealed EcoRI adaptor to each well (this should be a plate)
-  1. Always check to make sure each tip has liquid, some wells may be empty
-  1. If empty you CANNOT PULL FROM OTHER WELLS!
-  1. Once complete, replace tin sticker and label with fat-tipped marker. Note on label if there are any empty wells.
-  1. Check to make sure writing on plate (not sticker) is not fading. If so, rewrite using fine-tipped marker on another part of plate. Don’t write over!
+   1. Always check to make sure each tip has liquid, some wells may be empty
+   1. If empty you CANNOT PULL FROM OTHER WELLS!
+   1. Once complete, replace tin sticker and label with fat-tipped marker. Note on label if there are any empty wells.
+   1. Check to make sure writing on plate (not sticker) is not fading. If so, rewrite using fine-tipped marker on another part of plate. Don’t write over!
 1. Using the multichannel pipette, add 1μL of annealed MseI adaptor to each well (this should be a plate)
-  1. Always check to make sure each tip has liquid, some wells may be empty.
-  1. If empty, you can pull from other wells YOU CANNOT DO THIS WITH ECORI
-  1. Once complete, replace tin sticker and label with fat-tipped marker. Note on label if there are any empty wells.
-  1. Check to make sure writing on plate (not sticker) is not fading. If so, rewrite using fine-tipped marker on another part of plate. Don’t write over!
+   1. Always check to make sure each tip has liquid, some wells may be empty.
+   1. If empty, you can pull from other wells YOU CANNOT DO THIS WITH ECORI
+   1. Once complete, replace tin sticker and label with fat-tipped marker. Note on label if there are any empty wells.
+   1. Check to make sure writing on plate (not sticker) is not fading. If so, rewrite using fine-tipped marker on another part of plate. Don’t write over!
 1. Cover ligation plate with sticker, seal by running finger along each row and along each column to seal wells on every side
-  1. Label with fat-tipped marker “*Ligated [Sample X] [date] [initials]*”
-  1. Label the plate itself in a similar manner  
-  1. Do not label with ‘ligation’, label with ‘ligated’ to emphasize past tense.  
+   1. Label with fat-tipped marker “*Ligated [Sample X] [date] [initials]*”
+   1. Label the plate itself in a similar manner  
+   1. Do not label with ‘ligation’, label with ‘ligated’ to emphasize past tense.  
 1. Vortex plate for 5s.  
 1. Centrifuge ligation plate at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place in Thermocycler and start the Ligation cycle (6 hours run time)
-  1. ![Thermocycler setting](http://2.bp.blogspot.com/-ytBH1GGjlDM/VLfyV20iqaI/AAAAAAAAAqw/io6rOJAdFKo/s1600/unnamed-1.jpg)
+   1. ![Thermocycler setting](http://2.bp.blogspot.com/-ytBH1GGjlDM/VLfyV20iqaI/AAAAAAAAAqw/io6rOJAdFKo/s1600/unnamed-1.jpg)
 1. Once cycle has completed, place in 4°C refrigerator in section labeled "**Ready for PCR**"
 1. As soon as ligation is done add 189μl of 0.1X TE buffer (NOT TAE) to each well to dilute the products and also avoid samples being evaporated. 
 1. If you think you will not be using these products for a while place them in -20*C.
@@ -127,15 +127,15 @@ This is enough for all three vials of MM3 needed. Once made, store in -20°C fre
 1. If your ligated products are not diluted with 1xTE you can add it now.
 1. Get two new 96-well plates and label ON THE PLATE with fine-tipped permanent marker “**PCR Product [sample] [date] [initials]**”
 1. Orient these plates in the same direction as ligated plate!
-  1. Using the multichannel pipette, add 4μl of the diluted, ligated, samples to the 2 NEW plates – DO NOT REUSE PIPETTE TIPS except for the same row across the two plates
+   1. Using the multichannel pipette, add 4μl of the diluted, ligated, samples to the 2 NEW plates – DO NOT REUSE PIPETTE TIPS except for the same row across the two plates
 1. Add 16μl of Master Mix III to each well
 1. Place tin sticker on new plates and label with fat-tipped marker “**PCR Product [sample] [date] [initials]**”
-  1. Do not label with just ‘PCR’, label with ‘PCR Product’ to emphasize past tense.
+   1. Do not label with just ‘PCR’, label with ‘PCR Product’ to emphasize past tense.
 1. Centrifuge at 1000xG for 20s to pull all liquid to the bottom of the wells
 1. Place plates in Thermocyclers and start the PCR cycles (55.5 minutes run time)
-  1. ![Thermocycler setting](http://4.bp.blogspot.com/-xsMSgVGlnkE/VLfyfdTraQI/AAAAAAAAArA/1_NRwjjYqDg/s1600/unnamed-2.jpg)
+   1. ![Thermocycler setting](http://4.bp.blogspot.com/-xsMSgVGlnkE/VLfyfdTraQI/AAAAAAAAArA/1_NRwjjYqDg/s1600/unnamed-2.jpg)
 1. Once cycles complete, pool samples into a sterile 15mL blue-capped centrifuge tube.
-  1. Place in 4°C refrigerator in section labeled “**Ready for gel extraction**”
+   1. Place in 4°C refrigerator in section labeled “**Ready for gel extraction**”
 1. Perform [Gel Extraction Protocol](https://github.com/EckertLab/protocols/blob/master/gel_extraction_protocol.md) following completion of PCR
 
 
