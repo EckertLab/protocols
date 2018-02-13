@@ -1,4 +1,4 @@
-#High Throughput Bead Autoclave Protocol
+# High Throughput Bead Autoclave Protocol
 
 1. Combine beads into a dry 100mL beaker 
   1. Cover mouth of beaker with tinfoil 
