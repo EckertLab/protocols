@@ -6,7 +6,7 @@ Andrew J. Eckert (EckertLab) at Virginia Commonwealth
 University. Everyone in the Eckert Lab is an admin for this organization, but if you have trouble
 please let us know.
 
-##Printing
+## Printing
 
 If you want to print the protocols, use the awesome [GitPrint](https://gitprint.com) extension or bookmarklet.
 
