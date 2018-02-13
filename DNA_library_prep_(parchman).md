@@ -1,9 +1,9 @@
-#Multiplexed Library Preparation  
+# Multiplexed Library Preparation  
 adapted from [Parchman et al. (2012)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05513.x/full)
 
 all microcentrifuge vials can hold 1500μL volume
 ___
-##Digestion:
+## Digestion:
 -  Start by preparing the master mix (MM1). If you are preparing more than 1 plate mutliply the reagents by two.
 -  Take out the reagents from -20 freezer and let them thaw. Once thawed place on ice. Don't take out the enzymes (Ecor1 and MseI).
 -  Vortex and centrifuge all reagents, only centrifuge the enzymes. 
@@ -36,7 +36,7 @@ This is good for one 96-well plate. Once made, store in -20°C freezer. Always l
 ___
 
 
-##Ligation:
+## Ligation:
 **_Making Master Mix II for Ligation (125% of what you will need)_**  
 This is good for one 96-well plate. Once made, store in -20°C refridgerator.  Always label with made-on date, MMII will expire in time. 
 _Note that the official protocol calls for addition of MseI adaptor to Master Mix II, we DO NOT add it to this Master Mix since it is included in the ligation protocol below_  
@@ -86,7 +86,7 @@ _Note that the official protocol calls for addition of MseI adaptor to Master Mi
 
 ___
 
-##PCR
+## PCR
 **_Making 380μL of 5μM PCR primers for Master Mix III_**  
 This is enough for all three vials of MM3 needed. Once made, store in -20°C freezer.  Always label with made-on date, MMIII will expire in time. 
   * Label a 1.5mL microcentrifuge tube with "**PCR Primers**"
