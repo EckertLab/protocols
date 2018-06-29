@@ -4,26 +4,26 @@ adapted from [Parchman et al. (2012)](http://onlinelibrary.wiley.com/doi/10.1111
 all microcentrifuge vials can hold 1500μL volume
 ___
 ## Digestion:
--  Start by preparing the master mix (MM1). If you are preparing more than 1 plate mutliply the reagents by two.
+-  Start by preparing the master mix (MM1). If you are preparing 2 plates mutliply the reagents by two.
 -  Take out the reagents from -20 freezer and let them thaw. Once thawed place on ice. Don't take out the enzymes (Ecor1 and MseI).
 -  Vortex and centrifuge all reagents, only centrifuge the enzymes. 
 
-**_Making Master Mix I for Digestion (150% of what you will need)_**  
+**_Making Master Mix I (MMI) for Digestion (150% of what you will need)_**  
 This is good for one 96-well plate. Once made, store in -20°C freezer. Always label with made-on date, MMI will expire in time.  
 * Label a 1.5mL microcentrifuge tube with **MMI** and into it pipette:
   * 36 μL ultrapure H<sub>2</sub>O  
-  * 86.4μL 1mg/mL BSA  
-  * 86.4μL 1M NaCl  
-  * 165.6μL 10X T4 Buffer  
-  * 17.28μL MseI  (10000 u/ml)
-  * 40.32μL EcoRI  (20000 u/ml)
+  * 86.4μL 1mg/mL BSA  ... in freezer, must first dilute the stock of 20mg/mL to 1mg/mL using ultrapure H2O
+  * 86.4μL 1M NaCl  ...on shelf above wet-lab prep area
+  * 165.6μL 10X T4 Buffer  ... in the freezer
+  * 17.28μL MseI  (10000 u/ml) ... keep in the freezer until ready to add
+  * 40.32μL EcoRI  (20000 u/ml) ... keep in the freezer until ready to add
 
 **_Digestion Protocol:_**  
 
 1. Once the MM1 has been prepapred,vortex and centrifuge Master Mix I vials in microcentrifuge for 5s.
 1. For each sample, place 6μL of genomic DNA into the assigned well of a 96-well plate
 1. Add 3μL of Master Mix I to each well
-1. Cover plate with sticker, seal by running finger along each row and along each column to seal wells on every side
+1. Cover plate with sticker (i.e. microseal), seal by running finger along each row and along each column to seal wells on every side
    1. Label sticker with fat-tipped marker “**Digested [Sample X] [date] [initials]**”
    1. Label the plate itself in a similar manner
    1. Do not label with ‘Digestion’, label with ‘digested’ to emphasize past tense.
@@ -37,12 +37,12 @@ ___
 
 
 ## Ligation:
-**_Making Master Mix II for Ligation (125% of what you will need)_**  
+**_Making Master Mix II (MMII) for Ligation (125% of what you will need)_**  
 This is good for one 96-well plate. Once made, store in -20°C refridgerator.  Always label with made-on date, MMII will expire in time. 
 _Note that the official protocol calls for addition of MseI adaptor to Master Mix II, we DO NOT add it to this Master Mix since it is included in the ligation protocol below_  
 * Label a 1.5mL microcentrifuge with "**MMII**"  
-* Take out the reagents from -20 freezer and let them thaw. Once thawed place on ice. Don't take out the enzymes (T4 DNA ligase).
-* Vortex and centrifuge all reagents, only centrifuge the enzymes. 
+* Take out the reagents from -20 freezer and let them thaw. Once thawed place on ice using the black bucket and ice in autoclave/equipment room. Don't take out the enzymes (T4 DNA ligase).
+* Vortex and centrifuge all reagents for a few seconds. Only centrifuge the enzymes. 
 * Into MM2 pipette:
   * 8.64μL ultrapure H<sub>2</sub>O
   * 12μL 10X T4 DNA Ligase Buffer  
@@ -52,7 +52,7 @@ _Note that the official protocol calls for addition of MseI adaptor to Master Mi
 
 **_Ligation Protocol_**  
 
-1. Before you start make sure there is enough annealed Ecor1 and MseI annealed adaptors. If not follow the method at the end of this document to prepare them.
+1. Before you start make sure there is enough annealed Ecor1 and MseI annealed adaptors. If not, follow the method available on GitHub-EckertLab protocols.
 1. Let the annealed adaptors thaw. Once thawed either place them in the fridge or on ice.
 1. Once thawed, spin digested product in centrifuge at 1000xG for 20s.
 1. Spin Master Mix II vials (labeled as MMII or MM2) in the microcentrifuge for 5s.
