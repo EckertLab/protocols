@@ -9,7 +9,7 @@ ___
 -  Vortex and centrifuge all reagents, only centrifuge the enzymes. 
 
 **_Making Master Mix I (MMI) for Digestion (150% of what you will need)_**  
-This is good for one 96-well plate. Once made, store in -20°C freezer. Always label with made-on date, MMI will expire in time.  
+This is good for one 96-well plate. Once made, store in -20°C freezer. Always label with made-on date, MMI will expire in time (use within 3 months).  
 * Label a 1.5mL microcentrifuge tube with **MMI** and into it pipette:
   * 36 μL ultrapure H<sub>2</sub>O  
   * 86.4μL 1mg/mL BSA  ... in freezer, must first dilute the stock of 20mg/mL to 1mg/mL using ultrapure H2O
