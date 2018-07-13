@@ -1,4 +1,5 @@
-# BURT DNA extraction
+# DNA extraction
+#modified: 7-12-2018
 
 This is the modified version of the Qiagen Plant 96 Kit for extracting DNA from pine needles for the BURT project.
 
