@@ -50,9 +50,9 @@ ___
 
 This step is conducted using dDocent. There are several other options that have been implemented by other folks in lab. 
 Check out:
-[Chris Friedline](https://github.com/cfriedline)
 
-[Brandon Lind] (https://github.com/brandonlind)
+[Chris Friedline](https://github.com/cfriedline)
+[Brandon Lind](https://github.com/brandonlind)
 
             
             
@@ -63,15 +63,12 @@ Please go over the tutorial in detail before starting this step:
 
 *_Things to keep in mind:_*
 
-*Create a directory and copy all the fastq files into it.
-
-*File naming scheme. Pop and Ind should be seperated by "_". 
-
-*Follow dDocent's naming scheme for fastq files (use `rename` command in bash to change file extensions)
-
-*We keep the gap penalty, match and mismatch value to default, but you can play around with the similarity threshold. 
-
-*Trimming can be turned on or off depending upon your settings in the previous step. If you only used fastp to trim on length you can alow dDocent to utilize trimmomatic at this stage.
+  *Create a directory and copy all the fastq files into it.
+  *File naming scheme. Pop and Ind should be seperated by "_". 
+  *Follow dDocent's naming scheme for fastq files (use `rename` command in bash to change file extensions)
+  *We keep the gap penalty, match and mismatch value to default, but you can play around with the similarity threshold. 
+  
+  *Trimming can be turned on or off depending upon your settings in the previous step. If you only used fastp to trim on length you can alow dDocent to utilize trimmomatic at this stage.
   If you have already trimmed on quality in the previous step, turn off this setting. If turned off, make sure to rename your files to match the trim format in dDocent. Also create a symlink here to all the raw fastq files for dDocent to work properly.
   
 *Both cutoffs in dDocent (Number of unique sequences with X coverage and Number of unique sequences in more than X individuals) can be picked near the asymptote.
