@@ -29,7 +29,7 @@ In the barcode file the individuals are listed from well A1:A12, then B1:B12 and
 
 e.g barcode file: ADD LINK HERE
 
-ecori.txt is a tab seperated file with the following on the first line:  EcoRI   AATTC
+ecori.txt is a tab seperated file with the following on the first line:  *EcoRI   AATTC*
 
 Once done, examine the *.stats file to determine how many reads were retained.
 
@@ -77,6 +77,25 @@ Please go over the tutorial in detail before starting this step:
 *Both cutoffs in dDocent (Number of unique sequences with X coverage and Number of unique sequences in more than X individuals) can be picked near the asymptote.
 
 *Once reference.fasta is assembled and SNPs are called, use the file before the final dDocent filtering to conduct all our custom post-filering steps. This file is called TotalRawSNPs.vcf.
+
+*Conduct imputation in BEAGLE if needed and intersect the imputed and TotalRawSNPs.vcf file to get the final set of SNPs.
+
+
+___
+## Post filtering
+
+After you obtain your final set of snps (TotalRawSNPs.vcf), you will use [vcftools](http://vcftools.sourceforge.net/man_latest.html) and R to process the output and filter based on several population genetics and techinal criteria specific to the study system, sequencing platform and study design.
+
+*_NOTE: While using vcftools remember to use the recode flag_*
+
+Below are the major filtering steps::
+      - Remove indels, remove SNPs with more than 50% missing data. 
+      - Keep only biallelic SNPs and SNPs with a min phred score of 20. *Phred score cutoff not implemented for imputed SNPs*
+      - Get depth per SNP and choose either the 50th or 75th percentile as the cutoff. i.e remove any SNP that has a depth greater than the cutoff value. (This step can be done in R or in python). *This step not implemented for imputed SNPs*
+      - Determine minor allele frequency cutoff (depends on sample size and number of individuals per site). Remove all SNPs below the cutoff. *This step can be done in R manually (after converting to 012 file) or using vcftools.*
+      - Recode to count of minor allele using plink or a custom R script.
+      - Estimate Wright's FIS and only retain SNPs that have a value between 0.5 and -0.5. 
+      
 
  
 
