@@ -64,8 +64,11 @@ Please go over the tutorial in detail before starting this step:
 *_Things to keep in mind:_*
 
   *Create a directory and copy all the fastq files into it.
+  
   *File naming scheme. Pop and Ind should be seperated by "_". 
+  
   *Follow dDocent's naming scheme for fastq files (use `rename` command in bash to change file extensions)
+  
   *We keep the gap penalty, match and mismatch value to default, but you can play around with the similarity threshold. 
   
   *Trimming can be turned on or off depending upon your settings in the previous step. If you only used fastp to trim on length you can alow dDocent to utilize trimmomatic at this stage.
