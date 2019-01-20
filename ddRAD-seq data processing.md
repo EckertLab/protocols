@@ -64,33 +64,39 @@ Please go over the tutorial in detail before starting this step:
 
 **_Things to keep in mind:_**
 
-  *Create a directory and copy all the fastq files into it.
+  - Create a directory and copy all the fastq files into it.
   
-  *File naming scheme. Pop and Ind should be seperated by "_". 
+  - File naming scheme. Pop and Ind should be seperated by "_". 
   
-  *Follow dDocent's naming scheme for fastq files (use `rename` command in bash to change file extensions)
+  - Follow dDocent's naming scheme for fastq files (use `rename` command in bash to change file extensions)
   
-  *We keep the gap penalty, match and mismatch value to default, but you can play around with the similarity threshold. 
+  - We keep the gap penalty, match and mismatch value to default, but you can play around with the similarity threshold. 
   
-  *Trimming can be turned on or off depending upon your settings in the previous step. If you only used fastp to trim on length you can alow dDocent to utilize trimmomatic at this stage.
+  - Trimming can be turned on or off depending upon your settings in the previous step. If you only used fastp to trim on length you can alow dDocent to utilize trimmomatic at this stage.
   If you have already trimmed on quality in the previous step, turn off this setting. If turned off, make sure to rename your files to match the trim format in dDocent. Also create a symlink here to all the raw fastq files for dDocent to work properly.
   
-*Both cutoffs in dDocent (Number of unique sequences with X coverage and Number of unique sequences in more than X individuals) can be picked near the asymptote.
+- Both cutoffs in dDocent (Number of unique sequences with X coverage and Number of unique sequences in more than X individuals) can be picked near the asymptote.
 
-*Once reference.fasta is assembled and SNPs are called, use the file before the final dDocent filtering to conduct all our custom post-filering steps. This file is called TotalRawSNPs.vcf.
+- Once reference.fasta is assembled and SNPs are called, use the file before the final dDocent filtering to conduct all our custom post-filering steps. This file is called TotalRawSNPs.vcf.
 
 **_More option outide dDocent_**
 
 **IMPUTATION**
+
 Conduct imputation in [BEAGLE](https://faculty.washington.edu/browning/beagle/beagle.html), if needed, and intersect the imputed and TotalRawSNPs.vcf file to get the final set of SNPs.
 
 **Post mapping to reference genome**(under development)
+
 If reference genome is available and you choose to conduct post assembly mapping to the reference genome you can do so with [BLAST](https://www.ncbi.nlm.nih.gov/books/NBK279690/). Either set BLAST in your source or specify path to the executable while running the steps below.
 
             -Download the species.fasta file and convert it to a blastable database using `makeblastdb`. 
+            
             - Use the reference.fasta file outputed from dDocent to blast (use `blastn`) against the searchable species.fasta file you generated above. There are several options to be set in `blastn` and they depend on the average length of the contigs in reference.fasta, the degree of divergence between your species and the reference species for which the genome is available. Ideal to use output option 6,7 or 8.
+            
             - Filter your text file in R or python to retain only queries that pass the predetermined threshold.
+            
             - Use `read.fasta` from `seqinr` package in R or  python to subset your vcf file by keeping only those contigs that pass the blast threshold in the previous step. 
+            
             - This will now be your final set of SNPs that have some similarity to a reference genome.
 
 
