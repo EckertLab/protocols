@@ -22,12 +22,13 @@ wget --user=`userID`--password=`userPass` ftp://serverID/folderName/raw_data/*.g
 [Herten et al. 2015](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0514-3)
 
 _Basic command_ for Demultiplexing (modify the flags as seen fit for your data)
+
 /location/of/jdk1.8.0_101/bin/java -jar /location/of/GBSX/GBSX_v1.2.jar --Demultiplexer -f1 /path/to/library/file/XYZ.fq -i /path/to/barcodes.txt -gzip false -rad true -mb 2 -me 1 -ea /path/to/ecori.txt
 
 barcodes.txt is a simple tab seperated file (r*c), where the rows (r) are your individuals in a given library and columns (c=3) are name of the individual, barcode sequence and the last column has EcorI repeated r times.
 In the barcode file the individuals are listed from well A1:A12, then B1:B12 and so on. 
 
-e.g barcode file: ADD LINK HERE
+e.g [barcode file](https://github.com/EckertLab/protocols/blob/master/barcodes.txt)
 
 ecori.txt is a tab seperated file with the following on the first line:  *EcoRI   AATTC*
 
@@ -87,14 +88,14 @@ Conduct imputation in [BEAGLE](https://faculty.washington.edu/browning/beagle/be
 
 **Post mapping to reference genome**(under development)
 
-If reference genome is available and you choose to conduct post assembly mapping to the reference genome you can do so with [BLAST](https://www.ncbi.nlm.nih.gov/books/NBK279690/). Either set BLAST in your source or specify path to the executable while running the steps below.
+If reference genome is available and you choose to conduct post assembly mapping to the reference genome you can do so with [BLAST](https://www.ncbi.nlm.nih.gov/books/NBK279690/). Either set BLAST in your source or specify path to the executable while running the steps below. Note that these steps can be conducted soon after dDocent is run or after all the post-filtering steps are completed.
 
   - Download the species.fasta file and convert it to a blastable database using `makeblastdb`. 
 
   - Use the reference.fasta file outputed from dDocent to blast (use `blastn`) against the searchable species.fasta file you generated above. There are several options to be set in `blastn` and they depend on the average length of the contigs in reference.fasta, the degree of divergence between your species and the reference species for which the genome is available. Ideal to use output option 6,7 or 8.
   - Filter your text file in R or python to retain only queries that pass the predetermined threshold.
   
-  - Use `read.fasta` from `seqinr` package in R or  python to subset your vcf file by keeping only those contigs that pass the blast threshold in the previous step. 
+  - Now subset your TotalRawSNPs.vcf file using the queries retained in the step. This can be done using vcftools. Alternatively, if you have converted your vcf into 012 format, this step can be implemented in R.
   
   - This will now be your final set of SNPs that have some similarity to a reference genome.
 
@@ -113,7 +114,7 @@ After you obtain your final set of snps (TotalRawSNPs.vcf), you will use [vcftoo
   
   - Keep only biallelic SNPs and SNPs with a min phred score of 20. *Phred score cutoff not implemented for imputed SNPs*
   
-  - Get depth per SNP and choose either the 50th or 75th percentile as the cutoff. i.e remove any SNP that has a depth greater than the cutoff value. (This step can be done in R or in python). *This step not implemented for imputed SNPs*
+  - Get depth per SNP and choose either the 50th or 75th percentile as the cutoff. i.e remove any SNP that has a depth greater than the cutoff value. (This step can be done in R or in python too). *This step not implemented for imputed SNPs*
   
   - Determine minor allele frequency cutoff (depends on sample size and number of individuals per site). Remove all SNPs below the cutoff. *This step can be done in R manually (after converting to 012 file) or using vcftools.*
   
