@@ -44,7 +44,12 @@ You can also look at the fastq output for your library to determine if end trimm
 
 We will be trimming off the ends of our reads to make them all equal length. You can also trim on quality at this stage (not implemented in this documentation).
 
-EG HERE**
+fastp -i inFile -o trim_out -t 1 -b 80
+
+*To double check this step*
+Check the average length of the reads in the file. Repeat this check, comparing the original file and trimmed file to make sure the average length has decreased on several files. The length will be greater than the base pairs you specified, as fastp learns the adaptors at the beginning of the sequence and does not include that in the remaining tail that is trimmed to your specified length. Some files may have a larger average length, as the trimming command also removes the last round of sequencing that is usually short and low quality reads.
+
+ awk '{if(NR%4==2) {count++; bases += length} } END{print bases/count}' filename.F.fq.gz
 
 ___
 ## Mapping and SNP calling (*_Assuming denovo assembly_*)
