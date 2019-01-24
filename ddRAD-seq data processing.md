@@ -119,13 +119,13 @@ After you obtain your final set of snps (TotalRawSNPs.vcf), you will use [vcftoo
   
   - Keep only biallelic SNPs and SNPs with a min phred score of 20. *Phred score cutoff not implemented for imputed SNPs*
   
-  - Get depth per SNP and choose either the 50th or 75th percentile as the cutoff. i.e remove any SNP that has a depth greater than the cutoff value. (This step can be done in R or in python too). *This step not implemented for imputed SNPs*
+  - Get depth per SNP and choose either the 50th or 75th percentile as the cutoff. i.e remove any SNP that has a depth greater than the cutoff value. (This step can be done in R or in python too). This step is essential for conifer species due to the abundance of TE and paralogs. *This step not implemented for imputed SNPs*
   
-  - Determine minor allele frequency cutoff (depends on sample size and number of individuals per site). Remove all SNPs below the cutoff. *This step can be done in R manually (after converting to 012 file) or using vcftools.*
+  - Determine minor allele frequency cutoff (depends on sample size and number of individuals per site). In general it should be set low enough to retain variation that might be specific to a population. Remove all SNPs below the cutoff. *This step can be done in R manually (after converting to 012 file) or using vcftools.*
   
   - Recode to count of minor allele using the `recodeA` command in plink or a custom R script.
   
-  - Estimate Wright's FIS and only retain SNPs that have a value between 0.5 and -0.5. 
+  - Estimate Wright's FIS and only retain SNPs that have a value between 0.5 and -0.5. This cutoff gets rid of repeats again and also removes SNPs that might be called heterozygotes due to null alleles or insufficient reads to call heterozygotes. 
       
 
  
